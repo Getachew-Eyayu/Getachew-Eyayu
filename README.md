@@ -48,3 +48,4 @@ and organize reading activities efficiently.
 
 ## 📫 Connect With Me
 - LinkedIn:www.linkedin.com/in/getachew-eyayu
+- Email: getachew.ugr-7874-17@aau.edu.et
