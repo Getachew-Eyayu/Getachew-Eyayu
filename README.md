@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Getachew Eyayu 👋
 
-<!--
-**Getachew-Eyayu/Getachew-Eyayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student at Addis Ababa University
 
-Here are some ideas to get you started:
+I'm passionate about building practical technology solutions,
+especially systems that can positively impact underserved communities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Interests
+- Frontend Web Development
+- Backend & Database Systems
+- Social Impact Technology
+- Scalable Software Solutions
+
+---
+
+## 🛠️ Tech Stack
+- Python
+- Java (OOP)
+- PostgreSQL
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- Cisco Networking
+
+---
+
+## 📚 Currently Learning
+- Advanced Backend Development
+- System Design
+- Full-Stack Development
+- Software Architecture
+
+---
+
+## 📌 Featured Project
+### 🏠 Property Rental System
+An object-oriented application developed in Java for managing
+property listings, rentals, tenants, and rental operations.
+
+### Reading Tracker System
+A system developed to track reading progress, manage books,
+and organize reading activities efficiently.
+
+---
+
+## 📫 Connect With Me
+- LinkedIn:www.linkedin.com/in/getachew-eyayu
